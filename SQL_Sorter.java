@@ -8,7 +8,7 @@ public class SQL_Sorter {
 
     static final String url = "jdbc:mysql://localhost:3306/q4";
     static final String user = "root";
-    static final String password = "89antaraNus";
+    static final String password = "bruh";
 
     public static Displays display = new Displays();
 
